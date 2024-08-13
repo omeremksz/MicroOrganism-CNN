@@ -1,2 +1,10 @@
-# MicroOrganism-Classifier
-A Convolutional Neural Network (CNN) model for classifying micro-organism images using advanced image processing techniques.
+# MicroOrganism-CNN
+
+This repository features a Convolutional Neural Network (CNN) designed for classifying micro-organism images. The project incorporates image processing techniques to enhance model accuracy.
+
+## Features
+- **Image Processing:** Techniques include normalization and augmentation.
+- **CNN Model:** Built with multiple convolutional layers for effective feature extraction.
+- **Evaluation:** Includes confusion matrix and classification report.
+
+
